@@ -25,7 +25,7 @@ You can clone this repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/sorting-and-data-structures-c.git
+git clone https://github.com/DEEPAKGUPTA1141421/c_Final_project
 After cloning, you can explore and use the sorting algorithms and data structures in your C programs. Each algorithm and data structure is implemented in separate C files for easy integration into your projects.
 
 Please refer to the individual source code files for detailed documentation and usage examples.
